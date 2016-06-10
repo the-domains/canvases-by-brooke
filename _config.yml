@@ -1,26 +1,26 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
 color:
   saturation: 0.7378482
   brandStrength: 0.5215054
-  lightness: 0.620364
+  rhythmicContrast: 0.4818268
   brandColors:
     - '#FCFBF9'
     - '#B4C4A8'
     - '#B27234'
     - '#61341B'
     - '#EFB943'
-  rhythmicContrast: 0.4818268
-typography_spectrum: 0.07168459
+  lightness: 0.620364
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
 layout_spectrum: 0.9731183
+typography_spectrum: 0.07168459
 name: 'Canvases by Brooke '
