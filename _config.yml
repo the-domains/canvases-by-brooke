@@ -13,14 +13,14 @@ collections:
 typography_spectrum: 0.07168459
 color:
   saturation: 0.7378482
-  brandStrength: 0.5286738
+  brandStrength: 0.5215054
   lightness: 0.620364
   brandColors:
-    - '#968A7E'
-    - '#EBEEE5'
-    - '#201712'
-    - '#BAB1A8'
-    - '#4A403F'
+    - '#FCFBF9'
+    - '#B4C4A8'
+    - '#B27234'
+    - '#61341B'
+    - '#EFB943'
   rhythmicContrast: 0.4818268
 layout_spectrum: 1
 name: 'Canvases by Brooke '
