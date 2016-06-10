@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[Canvases by Brooke ]]></title>
         <description><![CDATA[Canvases by Brooke ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/canvases-by-brooke/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 22:06:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 10 Jun 2016 22:09:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/canvases-by-brooke/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1180e5da-f02f-4e6e-8220-b9cf79afaaf1.jpg">]]></description>
             <link>https://www.facebook.com/CanvasesByBrooke/</link>
             <guid isPermaLink="false">ec8fa62d-9d9a-4aab-a730-01d1ab3dbab1</guid>
-            <pubDate>Fri, 10 Jun 2016 22:06:01 GMT</pubDate>
+            <pubDate>Fri, 10 Jun 2016 22:08:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
