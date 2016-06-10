@@ -1,14 +1,26 @@
-layout_spectrum: 0.6955089
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.07168459
 color:
   saturation: 0.7378482
+  brandStrength: 0.5286738
   lightness: 0.620364
-  brandStrength: 0.6863799
   brandColors:
-    - '#D7C9A2'
-    - '#B5B79F'
-    - '#96A995'
-    - '#7A917E'
-    - '#060625'
+    - '#968A7E'
+    - '#EBEEE5'
+    - '#201712'
+    - '#BAB1A8'
+    - '#4A403F'
   rhythmicContrast: 0.4818268
-typography_spectrum: 0.07168459
+layout_spectrum: 1
 name: 'Canvases by Brooke '
